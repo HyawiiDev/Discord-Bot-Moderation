@@ -11,11 +11,8 @@
 
 # discord-moderation-bot
 
-A customizable moderation bot made by [SinisterDev](https://discord.com/users/778140362790404158) to help Discord users, whether they are developers or normal users who want to improve their server.
+A customizable moderation bot made by [HyawiiDev](https://discord.com/users/778140362790404158) to help Discord users, whether they are developers or normal users who want to improve their server.
 
-### Important: 
-
-This repository's [v1 branch](https://github.com/SinisterDeveloper/discord-moderation-bot/tree/v1) is deprecated, however it does not require you to have a database and you may still use it for the time being, however I will not be adding new features to the old version.
 
 # Setup
 
